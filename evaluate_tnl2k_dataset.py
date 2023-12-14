@@ -12,7 +12,7 @@ path_anno = 'annos/'
 path_att = 'annos/att/'
 seq_eval_config = 'sequence_evaluation_config/'
 rp_all = './tracking_results/'
-save_fig_path = 'res_fig/'
+save_fig_path = 'result_fig/'
 save_fig_suf = 'png'
 
 # Attribute names and figure names 每个挑战的名称和生成图片的名称
