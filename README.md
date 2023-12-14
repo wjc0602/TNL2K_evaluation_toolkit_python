@@ -5,7 +5,7 @@
 1. Download this github file:
 
 ```bash
-git clone https://www.gitlink.org.cn/BingXi/TNL2K_evaluation_toolkit_python
+git clone https://github.com/wjc0602/TNL2K_evaluation_toolkit_python
 ```
 
 2. Unzip related files for evaluation:
@@ -31,5 +31,6 @@ python evaluate_tnl2k_dataset.py
 
 ## Acknowledgement
 
-This code is modified based on the MatLab version evaluation toolkit
-of [[TNL2K](https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit)].
+This code is modified based on the MatLab version evaluation toolkit of [[TNL2K](https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit)].
+
+If there is any infringement involved, please contact me to delete it via wjcmain@gmain.com.
